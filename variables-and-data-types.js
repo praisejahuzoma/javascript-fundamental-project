@@ -2,6 +2,5 @@
 let name = 'Hope Uzodinma ';
 // Log the variable name to the console.log()
 console.log(name);
-// Create a variable called isAResidentOfVONGardenEstate and assign a boolean value confirm("Do you live in VON Garden estate")
-let isAResidentOfVONGardenEstate = confirm("Do you live in VON Garden estate");
-alert( isAResidentOfVONGardenEstate );
+// Create a variable called isAResidentOfVONGardenEstate and assign a boolean value 
+let isAResidentOfVONGardenEstate = true;
