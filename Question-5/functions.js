@@ -7,6 +7,6 @@ sayTodaysDate(prompt("Write your name"));
 
 // A function that takes in two numbers as arguments and returns a sum of both numbers to the console.
 function sum(num1, num2) {
-    return num1 + num2;
+    return Number(num1) + Number(num2);
  }
-console.log(sum(2, 3));      
+console.log(sum("2", "3"));      
