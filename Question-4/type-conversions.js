@@ -1,5 +1,9 @@
-// Created a new file called type-conversions.js 
-// Created a variable with a type of String  and takes the number 25 in type-conversions.js. 
-// Added another variable and assign a converted Number value 25 to it.
-// Logged the new variable(num) to the console. 
-// Log the type of the new variable to the console (console.log(tyepof(name));.
+// A variable with a type of String 25
+let str = "25";
+// Add another variable and assign a converted Number value 25 to it.
+let num = Number(str);  
+// Log the new variable(num) to the console. 
+console.log(num);
+// Log the type of the new variable(num) to the console.
+console.log(typeof(num));
+
